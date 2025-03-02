@@ -23,7 +23,9 @@ body {
     color: var(--text-color);
     background-color: var(--bg-color);
 }
-
+.content{
+    overflow: hidden;
+}
 
 a {
     text-decoration: none;

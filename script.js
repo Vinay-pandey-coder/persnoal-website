@@ -34,6 +34,6 @@ animate.reveal(".about-text", {delay:"500",origin: "right"});
 animate.reveal(".heading", {origin: "left"});
 animate.reveal(".playlist-box", {interval: 100});
 animate.reveal(".contact-box", { delay:"500",interval: 100});
-animate.reveal(".contact-form", { delay:"500",interval: 100,origin:"right"});
-animate.reveal(".social", {origin: "left"});
+animate.reveal(".contact-form", { delay:"400",interval: 100});
+animate.reveal(".social", { delay:"300",interval: 100});
 animate.reveal(".copyright", {origin: "bottom"});
